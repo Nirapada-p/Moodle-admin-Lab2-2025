@@ -470,8 +470,9 @@ Category: ชั้นมัธยมศึกษาปีที่ 1
 
 **บันทึกรูปหน้า Enroll ครู:** 
 ```
- # บันทึกรูปหน้า Enroll
 ```
+<img width="1919" height="780" alt="image" src="https://github.com/user-attachments/assets/9c1c6120-b3f2-4073-b5b7-3ec32e83d060" />
+
 
 **Enroll นักเรียนผ่าน Cohort sync:**
 - หน้า Participants > Enrolment methods  (จากเดิมจะเลือกเมนูเป็น Enrolled users ไว้)
@@ -481,13 +482,14 @@ Category: ชั้นมัธยมศึกษาปีที่ 1
 
 **บันทึกรูปหน้า Enroll นักเรียน:** 
 ```
- # บันทึกรูปหน้า Enroll
 ```
+<img width="961" height="503" alt="image" src="https://github.com/user-attachments/assets/345ea575-4ae7-44c1-a34c-c59c719d2862" />
 
 **บันทึกรูปหน้า Course ที่ Enrol User แล้ว :** 
 ```
- # บันทึกรูปหน้า Course ที่ Enrol User แล้ว
 ```
+<img width="937" height="874" alt="image" src="https://github.com/user-attachments/assets/0db51db8-574f-46cc-bbf8-af58ffa552e1" />
+
 
 #### 6.2 เพิ่ม Activities
 1) ทดสอบ Login เข้าระบบด้วย User Teacher ที่ได้สร้างขึ้น
@@ -518,8 +520,8 @@ Grade to pass: 60%
 
 **บันทึกรูปหน้า Course ที่เพิ่มเติม Activities:** 
 ```
- # บันทึกรูปหน้า Course ที่เพิ่มเติม Activities
 ```
+<img width="1437" height="862" alt="image" src="https://github.com/user-attachments/assets/76d335f0-808c-44d5-8d8c-00f64a67db9d" />
 
 
 ## คำถามท้ายการทดลอง
